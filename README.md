@@ -18,7 +18,7 @@ checks out the current state of whether the ship is balanced or not and uses A* 
 ## Running the program
 * Clone the repository
 ```bash
-  git clone https://github.com/dpxa/NovaVision-AI-proj3.git
+  git clone https://github.com/LydaTaing/Container-Balance-.git
 ```
 * Run the application
 ```bash
