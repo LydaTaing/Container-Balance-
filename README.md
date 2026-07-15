@@ -1,4 +1,5 @@
-# NovaVision-AI-proj3
+# Container Balance
+
 ## Overview
 The program helps with balancing containers in a ship by reading the manifest file, 
 checks out the current state of whether the ship is balanced or not and uses A* to figure out moves to balance the ship.
